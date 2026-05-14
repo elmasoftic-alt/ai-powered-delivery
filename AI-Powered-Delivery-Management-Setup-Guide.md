@@ -39,7 +39,7 @@ All of this runs inside VS Code using GitHub Copilot's chat and agent features. 
 | --- | --- |
 | A Mac, Windows, or Linux computer | VS Code runs on all three |
 | An internet connection | GitHub Copilot is cloud-based |
-| A GitHub account | Copilot requires one — you need a GitHub account that belongs to the hm-group organization |
+| A GitHub account | Copilot requires one — you need a GitHub account that belongs to the client's organization |
 | GitHub Copilot access | Access is managed centrally — see Step 2 below for how to request it |
 | An Atlassian Cloud account (Jira + Confluence) | So the AI can read/write tickets and pages |
 
