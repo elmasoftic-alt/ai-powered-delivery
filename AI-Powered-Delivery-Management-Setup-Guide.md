@@ -551,7 +551,7 @@ Structure your output as:
 
 ### Understanding the key concepts
 
-| Term | What it means |
+| Term | What it means | 
 | --- | --- |
 | **VS Code** | A free text editor by Microsoft. Think of it as a smart notepad that can run AI tools. |
 | **GitHub Copilot** | An AI assistant that lives inside VS Code. You chat with it and it can read/write files and talk to external services. |
